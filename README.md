@@ -1,4 +1,5 @@
 # CalculatorInReactHooks
+<img width="1728" alt="Screenshot 2023-06-15 at 7 00 53 PM" src="https://github.com/rohanpaul23/CalculatorInReactHooks/assets/37002165/07389577-7f99-470b-8468-ab9b53d2aa54">
 
 # Getting Started with CalculatorInReactHooks
 
